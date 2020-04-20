@@ -1,6 +1,6 @@
 # To Do App
 
-![Demo Image]("./demo/1.png")
+![Demo Image](/demo/1.png)
 Simple To Do App Created using React.js
 
 Please Click the link in the Description of the Repository to View the Project.
